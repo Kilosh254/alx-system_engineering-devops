@@ -4,4 +4,6 @@
 2. Display a file- > Display the content of the /etc/passwd file.
 3. Display content- > Display the content of /etc/passwd and /etc/hosts.
 4. Last lines of a file- > Display the last 10 lines of /etc/passwd.
-5. I'd prefer the first ones actually- > Display the first 10 lines of /etc/passwd 
+5. I'd prefer the first ones actually- > Display the first 10 lines of /etc/passwd
+6. Line #2- > Write a script that displays the third line of the file iacta, The file iacta will be in the working directory, You’re not allowed to use sed
+ 
