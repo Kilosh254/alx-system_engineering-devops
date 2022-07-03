@@ -24,3 +24,7 @@
 11.  Don't just count your directories, make your directories count- > Write a script that counts the number of directories and sub-directories in the current directory, The current and parent directories should not be taken into account, Hidden directories should be counted
 
 12. What’s new- > Create a script that displays the 10 newest files in the current directory, One file per line, Sorted from the newest to the oldest
+
+13.  Being unique is better than being perfect- > Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+
